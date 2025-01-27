@@ -36,7 +36,7 @@ function App() {
                <ListItemText
           primary={item}
           primaryTypographyProps={{
-            fontSize: "13px", // Explicitly set font size here
+            fontSize: "13px", 
           }}
         />
               </ListItem>
@@ -58,7 +58,7 @@ function App() {
               <ListItemText
           primary={item}
           primaryTypographyProps={{
-            fontSize: "13px", // Explicitly set font size here
+            fontSize: "13px", 
           }}
         /></ListItem>
             ))}
