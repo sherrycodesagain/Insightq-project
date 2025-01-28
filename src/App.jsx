@@ -97,7 +97,7 @@ function App() {
         }}
       >
 <Box 
-      sx={{display: 'flex', alignItems: 'center', maxWidth: 500,padding: 2, justifyContent: 'space-between',
+      sx={{display: 'flex', alignItems: 'center', width:"90%",padding: 2, justifyContent: 'space-between',
     '@media (max-width: 600px)': {justifyContent: 'flex-end', backgroundColor: '#021c33', },}}>
       <Typography 
         sx={{  flex: 1, color: 'black', fontSize: '16px',  fontWeight: 'bold',display: { xs: 'none', sm: 'block' },  whiteSpace: 'nowrap', 
